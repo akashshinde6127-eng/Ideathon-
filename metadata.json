@@ -1,0 +1,6 @@
+{
+  "name": "ResQGrid - Disaster Response & Flood Command Centre",
+  "description": "Next-generation disaster intelligence and emergency response command platform with real-time geospatial tracking, citizen SOS dispatch, and AI situational briefings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
